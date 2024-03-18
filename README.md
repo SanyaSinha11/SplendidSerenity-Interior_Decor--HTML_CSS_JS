@@ -19,11 +19,11 @@ Welcome to Splendid Serenity, your go-to destination for enhancing the interior 
 
 To cater to diverse preferences and requirements, our website offers a range of features designed to streamline the interior design process.
 - **Designer Consultation:** Our platform connects you with skilled designers who can offer personalized advice and recommendations tailored to your specific tastes and space constraints.
-- **Book Designer:** With just a few clicks or call, you can schedule an appointment for a designer to visit your home and provide hands-on assitance with your interior decor project.
-- **Online Store:** Explore our curated collection of decorative items and furnityre pieces, carefully selected to enhance the ambiance of any room.
-- **Guaranteed Products and Services:** All our products and services comes with a warranty time. Ensuring the best quality and longer life duration of both.
-- **Designer At Your Doorstep:** We believe in briniging expertise of professional designers directly to your doorstep. 
-Our "Designer At Your Doorstep" theme eliminates the stress and uncertainity often associated with interior design projects, allowing you to solely focus on bringing your vision to life. 
+- **Book Designer:** With just a few clicks or call, you can schedule an appointment for a designer to visit your home and provide hands-on assistance with your interior decor project.
+- **Online Store:** Explore our curated collection of decorative items and furniture pieces, carefully selected to enhance the ambiance of any room.
+- **Guaranteed Products and Services:** All our products and services come with a warranty time. Ensuring the best quality and longer life duration of both.
+- **Designer At Your Doorstep:** We believe in bringing expertise of professional designers directly to your doorstep. 
+Our "Designer At Your Doorstep" theme eliminates the stress and uncertainty often associated with interior design projects, allowing you to solely focus on bringing your vision to life. 
 
 
 ## Embracing The Technologies
@@ -39,7 +39,7 @@ Our "Designer At Your Doorstep" theme eliminates the stress and uncertainity oft
 
 The webpage is designed to be aesthetically eye pleasing and calm, representing the purity and essence of our work as well as team.
 
-The colour palatte used constitutes of mainly 5 colours:
+The colour palette used constitutes of mainly 5 colours:
 
 
 | Color             | Hex                                                                |
@@ -54,12 +54,12 @@ The colour palatte used constitutes of mainly 5 colours:
 The webpage's navigation bar includes:
 
 - Exclusively designed brand's logo.
-- **Home Page:** With a slideshow feature giving an idea of our work. Furthermore, it contains *"Features"* section, highlighting our unique attributes, an *"About"* section introducing our brand to users, *"Service"* section giving an overview of kinds of services we provide, *"New Arrivals"* section especially curated for customers who are more inclined towards online shopping and the *"Contact Us"* section enabling users to raise queries, get in touch with our workers or view our pinterest boards.
+- **Home Page:** With a slideshow feature giving an idea of our work. Furthermore, it contains *"Features"* section, highlighting our unique attributes, an *"About"* section introducing our brand to users, *"Service"* section giving an overview of kinds of services we provide, *"New Arrivals"* section especially curated for customers who are more inclined towards online shopping and the *"Contact Us"* section enabling users to raise queries, get in touch with our workers or view our Pinterest boards.
 - **About:** This section is directly linked to the *"About"* section on the homepage enabling users an easy access.
 - **Service:** This section is directly linked to the *"Service"* section on the homepage to let users know what are the services we are providing.
-- **Store** This tab redirects user to our *"Store"* page enabling them to browse through our handpicked and quality items available on our online store.
+- **Store:** This tab redirects user to our *"Store"* page enabling them to browse through our handpicked and quality items available on our online store.
 - **Contact Us:** The button toggles to the *"Contact"* section on the homepage.
-- **LogIn:** This provides an user-friendly and customized environment to customers by enabling them to create an ID on the website. It redirects users to the login/signup page useful for both the users who are already regitered on our website as well as those who are using our website for the first time, enhancing their experience.
+- **LogIn:** This provides an user-friendly and customized environment to customers by enabling them to create an ID on the website. It redirects users to the login/signup page useful for both the users who are already registered on our website as well as those who are using our website for the first time, enhancing their experience.
 
 
 ![Screenshot 2024-03-18 043508](https://github.com/SanyaSinha11/SplendidSerenity-Interior_Decor/assets/124815376/1af7c17a-1478-4049-8ab7-c607bfb69fc8)
@@ -80,12 +80,12 @@ What sets us apart is our unwavering commitment to personalized service and atte
 
 Choosing Splendid Serenity offers several advantages:
 - Professional Guidance: *It connects you with skilled designers who can provide expert advice and recommendations.*
-- Convenience: *Our "Designer At Your Doorstep" theme eliminaes hassle of traditional interior design process.
-- Affordable Goods and Services: *We provide you with the best quality of handpicked items and services at reasonable prices."
+- Convenience: *Our "Designer At Your Doorstep" theme eliminates hassle of traditional interior design process.*
+- Affordable Goods and Services: *We provide you with the best quality of handpicked items and services at reasonable prices."*
 
 #### How to get-in touch with professional designers ?
 
-Simply by emailing us or by contacting us, the users can reach out to us. Our contact service is open 24/7 for users comfort. We revert back to each and every query of the users within 24 hours.
+Simply by emailing us or by contacting us, the users can reach out to us. Our contact service is open 24/7 for users' comfort. We revert back to each and every query of the users within 24 hours.
 
 
 ## Contact Us
