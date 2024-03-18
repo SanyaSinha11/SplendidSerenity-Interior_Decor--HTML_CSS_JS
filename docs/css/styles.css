@@ -258,8 +258,40 @@ display: none;
   box-shadow: 0 8px 24px 0 rgba(16,39,112,.2);
 }
 
+@media screen and (max-width: 1200px) {
+  .logo {
+      width: 100px;
+  }
+  .head-btn {
+      margin: 0 10px;
+      padding: 3px 5px;
+      font-size: 10px;
+      margin-left: 15px !important;
+  }
+}
+@media screen and (min-width: 800px) and (max-width: 1100px) {
+  nav ul li a {
+      margin: 0 20px;
+      font-size: 12px;
+  }
+  .section {
+    margin-top: 15%;
+  }
+}
+@media screen and (max-width: 768px) {
+  .section {
+    margin-top: 15%;
+  }
+  nav ul li a {
+      margin: 0 18px;
+      font-size: 10px;
+  }
+  .sec-box {
+    margin-left: 27%;
+  }
+}
 @media screen and (max-width: 600px){
   .sec-box{
-    margin-left: 15%;
+    margin-left: 10%;
   }
 }

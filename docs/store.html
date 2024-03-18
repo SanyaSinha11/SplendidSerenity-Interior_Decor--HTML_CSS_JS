@@ -238,12 +238,33 @@
                 padding: 1vw 22vw;
                 font-weight: bold;
             }
-
+            
+            @media screen and (max-width: 1200px) {
+                .logo {
+                    width: 100px;
+                }
+                .head-btn {
+                    margin: 0 10px;
+                    padding: 3px 5px;
+                    font-size: 10px;
+                    margin-left: 15px !important;
+                }
+            }
+            @media screen and (min-width: 800px) and (max-width: 1100px) {
+                nav ul li a {
+                    margin: 0 20px;
+                    font-size: 12px;
+                }
+            }
             @media screen and (max-width: 768px) {
                 .column {
                     -ms-flex: 50%;
                     flex: 50%;
                     max-width: 50%;
+                }
+                nav ul li a {
+                    margin: 0 18px;
+                    font-size: 10px;
                 }
             }
             @media screen and (max-width: 400px) {
