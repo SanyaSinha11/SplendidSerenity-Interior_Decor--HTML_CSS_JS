@@ -438,7 +438,13 @@ nav ul li a:hover::before {
 }
 @media screen and (max-width:300px) {
     #about {
-        padding-bottom: 170%;
+        padding-bottom: 200%;
+    }
+    #about p {
+        font-size: 8px;
+    }
+    .coverframe {
+        max-height: 60%;
     }
     
 }
