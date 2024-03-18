@@ -5,6 +5,16 @@
 Welcome to Splendid Serenity, your go-to destination for enhancing the interior of your home with elegance and style.  In today's fast-paced world, creating a harmonious and aesthetically pleasing living space can often feel like a daunting task. Whether you're looking to revamp your space with beautiful decorative items or seeking professional guidance to completely transform your interior, we've got you covered. Our website is designed to provide a seamless experience, blending aesthetics with functionality.
 
 
+## Table of Content
+
+- **Features**
+- **Embracing the Technologies**
+- **Webpage Design Analysis**
+- **About Us**
+- **FAQ**
+- **Contact Us**
+
+
 ## Features
 
 To cater to diverse preferences and requirements, our website offers a range of features designed to streamline the interior design process.
@@ -50,11 +60,19 @@ The webpage's navigation bar includes:
 - **Store** This tab redirects user to our *"Store"* page enabling them to browse through our handpicked and quality items available on our online store.
 - **Contact Us:** The button toggles to the *"Contact"* section on the homepage.
 - **LogIn:** This provides an user-friendly and customized environment to customers by enabling them to create an ID on the website. It redirects users to the login/signup page useful for both the users who are already regitered on our website as well as those who are using our website for the first time, enhancing their experience.
-## About Us
 
-At Splendid Serenity, we're more than just a website; we're a passionate team dedicated to helping individuals transform their living spaces into havens of serenity and beauty. Our designers bring a wealth of experience and creativity to every project, ensuring exceptional results that exceed customer expectations.
 
 ![Screenshot 2024-03-18 043508](https://github.com/SanyaSinha11/SplendidSerenity-Interior_Decor/assets/124815376/1af7c17a-1478-4049-8ab7-c607bfb69fc8)
+
+![Screenshot 2024-03-18 120502](https://github.com/SanyaSinha11/SplendidSerenity-Interior_Decor/assets/124815376/fab4c7b8-20f1-404b-a230-3a2275867978)
+
+
+## About Us
+
+At Splendid Serenity, we're more than just a website, we're a passionate team dedicated to helping individuals transform their living spaces into havens of serenity and beauty. Our designers bring a wealth of experience and creativity to every project, ensuring exceptional results that exceed customer expectations.
+
+What sets us apart is our unwavering commitment to personalized service and attention to detail. We understand that every individual has their unique vision for their home, which is why we take the time to listen, understand, and collaborate closely with you to bring your ideas to life. Whether you're seeking a complete interior makeover or just looking for the perfect accent piece, our team is here to guide you every step of the way.
+
 
 ## FAQ
 
