@@ -54,6 +54,8 @@ The webpage's navigation bar includes:
 
 At Splendid Serenity, we're more than just a website; we're a passionate team dedicated to helping individuals transform their living spaces into havens of serenity and beauty. Our designers bring a wealth of experience and creativity to every project, ensuring exceptional results that exceed customer expectations.
 
+![Screenshot 2024-03-18 043508](https://github.com/SanyaSinha11/SplendidSerenity-Interior_Decor/assets/124815376/1af7c17a-1478-4049-8ab7-c607bfb69fc8)
+
 ## FAQ
 
 #### Why choose Splendid Serenity ?
