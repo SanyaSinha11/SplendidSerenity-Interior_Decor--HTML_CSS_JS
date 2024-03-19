@@ -491,9 +491,9 @@ nav ul li a:hover::before {
         margin-left: 15px !important;
     }
     p {
-        font-size: 12px;
+        font-size: 12px !important;
     }
     h3 {
-        font-size: 17px;
+        font-size: 17px !important;
     }
 }
