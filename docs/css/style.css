@@ -490,4 +490,10 @@ nav ul li a:hover::before {
         font-size: 10px;
         margin-left: 15px !important;
     }
+    p {
+        font-size: 12px;
+    }
+    h3 {
+        font-size: 17px;
+    }
 }
