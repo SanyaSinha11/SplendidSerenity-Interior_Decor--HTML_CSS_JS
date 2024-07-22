@@ -4,6 +4,10 @@
 
 Welcome to Splendid Serenity, your go-to destination for enhancing the interior of your home with elegance and style.  In today's fast-paced world, creating a harmonious and aesthetically pleasing living space can often feel like a daunting task. Whether you're looking to revamp your space with beautiful decorative items or seeking professional guidance to completely transform your interior, we've got you covered. Our website is designed to provide a seamless experience, blending aesthetics with functionality.
 
+## Author
+Sanya Sinha
+
+**Live Site:** https://sanyasinha11.github.io/SplendidSerenity-Interior_Decor--HTML_CSS_JS/
 
 ## Table of Content
 
