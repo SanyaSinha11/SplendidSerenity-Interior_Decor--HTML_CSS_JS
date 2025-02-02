@@ -1,4 +1,4 @@
-![logo-white](https://github.com/SanyaSinha11/SplendidSerenity-Interior_Decor/assets/124815376/11a70730-ed8a-41ba-aeae-cd367aaef21f)
+![Splendid Serenity](https://github.com/user-attachments/assets/dd5f45a2-8207-42ef-bb3c-c4eb8bd27574)
 
 # INTERIOR DESIGN & DECOR WEBSITE
 
